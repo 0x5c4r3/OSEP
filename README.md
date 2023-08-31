@@ -1,4 +1,4 @@
-<img style="width:150px; height:150px" src="https://user-images.githubusercontent.com/16732213/217272000-32748326-2568-4dcd-b1a7-c0e3ff8e5f69.png">
+<img style="width:150px; height:150px" src="https://github.com/0x5c4r3/OSEP/assets/16732213/8f1ddff2-ce6f-4112-95eb-8b44e7faa35c">
 </img>
 
-References and notes from my experience with OSWP.
+References and notes from my experience with OSEP.
